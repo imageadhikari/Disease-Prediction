@@ -1,10 +1,13 @@
-import pandas as pd
+severity = {}
 
-df_sympSeverity = pd.read_csv("data/Symptom-severity.csv")
+with open("data/Symptom-severity.csv") as f:
+    for line in f.read().splitlines()[1:]:
+        symp, sever = line.split(",")
+        severity[symp] = sever
 
-def give_weight(w):
-    for i in range(df_sympSeverity.shape[0]):
-        if df_sympSeverity['Symptom'][i]==w:
-            return df_sympSeverity['weight'][i]
-        # else:
-        #     return 0
+
+def give_weight(symp):
+    if symp and symp in severity:
+        return severity[symp]
+
+    return 0
