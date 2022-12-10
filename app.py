@@ -7,11 +7,12 @@ import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import GradientBoostingClassifier
-from computation import give_weight
+# from computation import give_weight
 
 # Training and dumping the model before loading it because Gradient Boosting Classifier struggles with pickling.
-# Some attrubutes are usually left out and _loss is typically left out.
+# Some attributes are usually left out and _loss is typically left out.
 df_processed = pd.read_csv("data/processed.csv")
+df_sympSeverity = pd.read_csv("data/processedseverity.csv")
 
 X = df_processed.iloc[:,1:].values
 Y = df_processed['Disease'].values
@@ -35,6 +36,14 @@ def landing(request: Request):
     return templates.TemplateResponse("index.html", {"request": request})
 
 @app.post("/")
+def give_weight(w):
+    for i in range(df_sympSeverity.shape[0]):
+        try:
+            if df_sympSeverity['Symptom'][i]==w:
+                return df_sympSeverity['weight'][i]
+        except:
+            return 0
+
 async def predict(request: Request):
 
     form = await request.form()
