@@ -1,0 +1,6 @@
+DiseaseID : 184D
+Disease : Dimorphic hemmorhoids(piles)
+Precaution1 : avoid fatty spicy food
+Precaution2 : consume witch hazel
+Precaution3 : warm bath with epsom salt
+Precaution4 : consume alovera juice

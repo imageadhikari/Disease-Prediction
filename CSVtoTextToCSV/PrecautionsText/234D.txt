@@ -1,0 +1,6 @@
+DiseaseID : 234D
+Disease : Hepatitis B
+Precaution1 : consult nearest hospital
+Precaution2 : vaccination
+Precaution3 : eat healthy
+Precaution4 : medication

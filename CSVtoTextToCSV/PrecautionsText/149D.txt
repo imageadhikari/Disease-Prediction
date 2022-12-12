@@ -1,0 +1,6 @@
+DiseaseID : 149D
+Disease : (vertigo) Paroymsal  Positional Vertigo
+Precaution1 : lie down
+Precaution2 : avoid sudden change in body
+Precaution3 : avoid abrupt head movment
+Precaution4 : relax

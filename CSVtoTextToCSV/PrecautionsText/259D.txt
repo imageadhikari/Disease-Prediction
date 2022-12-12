@@ -1,0 +1,6 @@
+DiseaseID : 259D
+Disease : Alcoholic hepatitis
+Precaution1 : stop alcohol consumption
+Precaution2 : consult doctor
+Precaution3 : medication
+Precaution4 : follow up

@@ -1,0 +1,6 @@
+DiseaseID : 104D
+Disease : Drug Reaction
+Precaution1 : stop irritation
+Precaution2 : consult nearest hospital
+Precaution3 : stop taking drug
+Precaution4 : follow up

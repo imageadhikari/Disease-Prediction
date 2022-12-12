@@ -1,0 +1,6 @@
+DiseaseID : 204D
+Disease : Hyperthyroidism
+Precaution1 : eat healthy
+Precaution2 : massage
+Precaution3 : use lemon balm
+Precaution4 : take radioactive iodine treatment

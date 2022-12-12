@@ -1,0 +1,6 @@
+DiseaseID : 164D
+Disease : Diabetes 
+Precaution1 : have balanced diet
+Precaution2 : exercise
+Precaution3 : consult doctor
+Precaution4 : follow up

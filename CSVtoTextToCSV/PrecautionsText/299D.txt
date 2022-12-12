@@ -1,0 +1,6 @@
+DiseaseID : 299D
+Disease : Gastroenteritis
+Precaution1 : stop eating solid food for while
+Precaution2 : try taking small sips of water
+Precaution3 : rest
+Precaution4 : ease back into eating

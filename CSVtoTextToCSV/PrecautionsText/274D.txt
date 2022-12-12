@@ -1,0 +1,6 @@
+DiseaseID : 274D
+Disease : Dengue
+Precaution1 : drink papaya leaf juice
+Precaution2 : avoid fatty spicy food
+Precaution3 : keep mosquitos away
+Precaution4 : keep hydrated

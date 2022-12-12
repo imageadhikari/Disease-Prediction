@@ -1,0 +1,6 @@
+DiseaseID : 229D
+Disease : Typhoid
+Precaution1 : eat high calorie vegitables
+Precaution2 : antiboitic therapy
+Precaution3 : consult doctor
+Precaution4 : medication

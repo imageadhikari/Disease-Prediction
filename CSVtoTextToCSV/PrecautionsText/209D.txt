@@ -1,0 +1,6 @@
+DiseaseID : 209D
+Disease : Urinary tract infection
+Precaution1 : drink plenty of water
+Precaution2 : increase vitamin c intake
+Precaution3 : drink cranberry juice
+Precaution4 : take probiotics

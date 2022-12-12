@@ -1,0 +1,6 @@
+DiseaseID : 174D
+Disease : Hypertension 
+Precaution1 : meditation
+Precaution2 : salt baths
+Precaution3 : reduce stress
+Precaution4 : get proper sleep

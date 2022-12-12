@@ -1,0 +1,6 @@
+DiseaseID : 134D
+Disease : Chronic cholestasis
+Precaution1 : cold baths
+Precaution2 : anti itch medicine
+Precaution3 : consult doctor
+Precaution4 : eat healthy

@@ -1,0 +1,6 @@
+DiseaseID : 264D
+Disease : Jaundice
+Precaution1 : drink plenty of water
+Precaution2 : consume milk thistle
+Precaution3 : eat fruits and high fiberous food
+Precaution4 : medication

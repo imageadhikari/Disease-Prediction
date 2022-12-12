@@ -1,0 +1,6 @@
+DiseaseID : 159D
+Disease : Acne
+Precaution1 : bath twice
+Precaution2 : avoid fatty spicy food
+Precaution3 : drink plenty of water
+Precaution4 : avoid too many products

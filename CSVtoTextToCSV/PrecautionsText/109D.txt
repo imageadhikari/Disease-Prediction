@@ -1,0 +1,6 @@
+DiseaseID : 109D
+Disease : Malaria
+Precaution1 : Consult nearest hospital
+Precaution2 : avoid oily food
+Precaution3 : avoid non veg food
+Precaution4 : keep mosquitos out

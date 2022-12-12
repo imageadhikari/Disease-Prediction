@@ -1,0 +1,6 @@
+DiseaseID : 199D
+Disease : Cervical spondylosis
+Precaution1 : use heating pad or cold pack
+Precaution2 : exercise
+Precaution3 : take otc pain reliver
+Precaution4 : consult doctor

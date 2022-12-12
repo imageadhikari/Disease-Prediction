@@ -1,0 +1,6 @@
+DiseaseID : 224D
+Disease : Paralysis (brain hemorrhage)
+Precaution1 : massage
+Precaution2 : eat healthy
+Precaution3 : exercise
+Precaution4 : consult doctor

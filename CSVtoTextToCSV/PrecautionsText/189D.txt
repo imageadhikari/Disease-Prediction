@@ -1,0 +1,6 @@
+DiseaseID : 189D
+Disease : Common Cold
+Precaution1 : drink vitamin c rich drinks
+Precaution2 : take vapour
+Precaution3 : avoid cold food
+Precaution4 : keep fever in check

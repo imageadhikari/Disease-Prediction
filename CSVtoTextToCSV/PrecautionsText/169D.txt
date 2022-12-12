@@ -1,0 +1,6 @@
+DiseaseID : 169D
+Disease : Impetigo
+Precaution1 : soak affected area in warm water
+Precaution2 : use antibiotics
+Precaution3 : remove scabs with wet compressed cloth
+Precaution4 : consult doctor

@@ -1,0 +1,6 @@
+DiseaseID : 124D
+Disease : Psoriasis
+Precaution1 : wash hands with warm soapy water
+Precaution2 : stop bleeding using pressure
+Precaution3 : consult doctor
+Precaution4 : salt baths

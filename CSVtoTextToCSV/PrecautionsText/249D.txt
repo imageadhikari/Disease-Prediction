@@ -1,0 +1,6 @@
+DiseaseID : 249D
+Disease : Migraine
+Precaution1 : meditation
+Precaution2 : reduce stress
+Precaution3 : use poloroid glasses in sun
+Precaution4 : consult doctor

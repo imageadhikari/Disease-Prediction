@@ -1,0 +1,6 @@
+DiseaseID : 179D
+Disease : Peptic ulcer diseae
+Precaution1 : avoid fatty spicy food
+Precaution2 : consume probiotic food
+Precaution3 : eliminate milk
+Precaution4 : limit alcohol

@@ -1,0 +1,6 @@
+DiseaseID : 119D
+Disease : Hypothyroidism
+Precaution1 : reduce stress
+Precaution2 : exercise
+Precaution3 : eat healthy
+Precaution4 : get proper sleep

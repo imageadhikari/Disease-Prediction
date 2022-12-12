@@ -1,0 +1,6 @@
+DiseaseID : 219D
+Disease : AIDS
+Precaution1 : avoid open cuts
+Precaution2 : wear ppe if possible
+Precaution3 : consult doctor
+Precaution4 : follow up

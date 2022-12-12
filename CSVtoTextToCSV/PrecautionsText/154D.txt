@@ -1,0 +1,6 @@
+DiseaseID : 154D
+Disease : Hypoglycemia
+Precaution1 : lie down on side
+Precaution2 : check in pulse
+Precaution3 : drink sugary drinks
+Precaution4 : consult doctor

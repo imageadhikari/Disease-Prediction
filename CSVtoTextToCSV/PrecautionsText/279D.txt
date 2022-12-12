@@ -1,0 +1,6 @@
+DiseaseID : 279D
+Disease : Hepatitis D
+Precaution1 : consult doctor
+Precaution2 : medication
+Precaution3 : eat healthy
+Precaution4 : follow up

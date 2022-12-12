@@ -1,0 +1,6 @@
+DiseaseID : 304D
+Disease : Tuberculosis
+Precaution1 : cover mouth
+Precaution2 : consult doctor
+Precaution3 : medication
+Precaution4 : rest

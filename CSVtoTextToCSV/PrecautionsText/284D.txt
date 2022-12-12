@@ -1,0 +1,6 @@
+DiseaseID : 284D
+Disease : Heart attack
+Precaution1 : call ambulance
+Precaution2 : chew or swallow asprin
+Precaution3 : keep calm
+Precaution4 : 

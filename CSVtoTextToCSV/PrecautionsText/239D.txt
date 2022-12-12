@@ -1,0 +1,6 @@
+DiseaseID : 239D
+Disease : Fungal infection
+Precaution1 : bath twice
+Precaution2 : use detol or neem in bathing water
+Precaution3 : keep infected area dry
+Precaution4 : use clean cloths

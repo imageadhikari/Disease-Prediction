@@ -1,0 +1,6 @@
+DiseaseID : 254D
+Disease : Bronchial Asthma
+Precaution1 : switch to loose cloothing
+Precaution2 : take deep breaths
+Precaution3 : get away from trigger
+Precaution4 : seek help

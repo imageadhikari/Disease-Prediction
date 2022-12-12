@@ -1,0 +1,6 @@
+DiseaseID : 244D
+Disease : Hepatitis C
+Precaution1 : Consult nearest hospital
+Precaution2 : vaccination
+Precaution3 : eat healthy
+Precaution4 : medication

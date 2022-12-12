@@ -1,0 +1,6 @@
+DiseaseID : 114D
+Disease : Allergy
+Precaution1 : apply calamine
+Precaution2 : cover area with bandage
+Precaution3 : 
+Precaution4 : use ice to compress itching

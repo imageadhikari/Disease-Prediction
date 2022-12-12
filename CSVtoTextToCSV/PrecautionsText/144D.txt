@@ -1,0 +1,6 @@
+DiseaseID : 144D
+Disease : Osteoarthristis
+Precaution1 : acetaminophen
+Precaution2 : consult nearest hospital
+Precaution3 : follow up
+Precaution4 : salt baths

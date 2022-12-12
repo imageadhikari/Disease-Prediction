@@ -1,0 +1,6 @@
+DiseaseID : 269D
+Disease : Hepatitis E
+Precaution1 : stop alcohol consumption
+Precaution2 : rest
+Precaution3 : consult doctor
+Precaution4 : medication

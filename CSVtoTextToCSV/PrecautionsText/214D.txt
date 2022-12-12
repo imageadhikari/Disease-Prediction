@@ -1,0 +1,6 @@
+DiseaseID : 214D
+Disease : Varicose veins
+Precaution1 : lie down flat and raise the leg high
+Precaution2 : use oinments
+Precaution3 : use vein compression
+Precaution4 : dont stand still for long

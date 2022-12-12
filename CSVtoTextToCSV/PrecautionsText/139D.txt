@@ -1,0 +1,6 @@
+DiseaseID : 139D
+Disease : hepatitis A
+Precaution1 : Consult nearest hospital
+Precaution2 : wash hands through
+Precaution3 : avoid fatty spicy food
+Precaution4 : medication

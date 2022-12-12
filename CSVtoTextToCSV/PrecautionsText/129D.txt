@@ -1,0 +1,6 @@
+DiseaseID : 129D
+Disease : GERD
+Precaution1 : avoid fatty spicy food
+Precaution2 : avoid lying down after eating
+Precaution3 : maintain healthy weight
+Precaution4 : exercise

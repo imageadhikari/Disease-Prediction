@@ -1,0 +1,6 @@
+DiseaseID : 289D
+Disease : Pneumonia
+Precaution1 : consult doctor
+Precaution2 : medication
+Precaution3 : rest
+Precaution4 : follow up

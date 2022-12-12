@@ -1,0 +1,6 @@
+DiseaseID : 294D
+Disease : Arthritis
+Precaution1 : exercise
+Precaution2 : use hot and cold therapy
+Precaution3 : try acupuncture
+Precaution4 : massage

@@ -1,0 +1,6 @@
+DiseaseID : 194D
+Disease : Chicken pox
+Precaution1 : use neem in bathing 
+Precaution2 : consume neem leaves
+Precaution3 : take vaccine
+Precaution4 : avoid public places
