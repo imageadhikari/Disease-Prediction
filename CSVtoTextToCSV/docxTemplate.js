@@ -53,7 +53,7 @@ const CreateDocx = (obj) => {
     })
     
     Packer.toBuffer(doc).then((Buffer) => {
-        fs.writeFileSync(`./PreventionDocx/${fileName}.docx`, Buffer)
+        fs.writeFileSync(`./SymptomsDocx/${fileName}.docx`, Buffer)
     })
 }
 

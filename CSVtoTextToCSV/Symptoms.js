@@ -2,8 +2,10 @@ const fs = require('fs');
 const readLine = require('readline');
 const Papa = require('papaparse');
 const CreateDocx = require('./docxTemplate');
+const CreateFile = require('./txtTemplate');
 
-const SymptomStream = fs.createReadStream('.DataSets/Dataset.csv');
+
+const SymptomStream = fs.createReadStream('./DataSets/Dataset.csv');
 const SymptomReader = readLine.createInterface({input: SymptomStream});
 
 let SymptomList = [];
@@ -47,7 +49,7 @@ SymptomReader.on("close", ()=> {
             CreateDocx(obj)
 
         // for (let i in Temp){
-        //     console.log(Temp[i].patientId)
+        //     console.log(Temp[i].PatientId)
         //     CreateFile(Temp[i])
         // }
     }

@@ -1,14 +1,14 @@
 const fs = require('fs');
 
 const CreateFile = (obj) => {
-    const fileName = obj.DiseaseID;
+    const fileName = obj.PatientId;
     let patientData ='';
     for (let key in obj){
         let txtFormat = `${key} : ${obj[key]}\n`;
         patientData = patientData.concat(txtFormat)
     }
     // console.log(patientData)
-    fs.writeFile(`./PrecautionsText/${fileName}.txt`, patientData, (err) => {
+    fs.writeFile(`./SymptomsText/${fileName}.txt`, patientData, (err) => {
         throw err
     })
 }
