@@ -5,7 +5,7 @@ Disease Predictor is a webapp for predicting disease based on your symptoms.
 
 ## What It Does
 
-Disease Predictor is a smart app that is based on the Gradient Boosting Classifier trained using the [Disease Symptom Prediction](https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset?resource=download&select=symptom_precaution.csv) dataset from Kaggle. It is able to predict 41 different diseases based on 131 unique symptoms and their weighted relevancy for the disease. 
+Disease Predictor is a smart app that is based on the Gradient Boosting Classifier trained using the [Disease Symptom Prediction](https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset?resource=download&select=symptom_precaution.csv) dataset from Kaggle. The data is changed to text file and then back to csv to emulate actual medical prescriptions. The model is trained using this data and it is able to predict 41 different diseases based on 131 unique symptoms and their weighted relevancy for the disease. 
 
 
 ## Run Locally
