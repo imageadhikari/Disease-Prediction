@@ -32,7 +32,8 @@ async def predict(request: Request):
         inp_arr[i] = give_weight(symptoms[f"Symptom_{i+1}"])
 
     try:
-        prediction = model.predict([inp_arr])
+        value = model.predict([inp_arr])
+        prediction=value[0]
         success = True
 
     except Exception as e:
