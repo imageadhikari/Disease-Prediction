@@ -1,0 +1,19 @@
+PatientId : 3532
+Symptom1 :  vomiting
+Symptom2 :  indigestion
+Symptom3 :  loss_of_appetite
+Symptom4 :  abdominal_pain
+Symptom5 :  passage_of_gases
+Symptom6 :  internal_itching
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Peptic ulcer diseae

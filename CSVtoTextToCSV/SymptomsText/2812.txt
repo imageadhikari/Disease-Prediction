@@ -1,0 +1,19 @@
+PatientId : 2812
+Symptom1 :  joint_pain
+Symptom2 :  vomiting
+Symptom3 :  fatigue
+Symptom4 :  high_fever
+Symptom5 :  yellowish_skin
+Symptom6 :  dark_urine
+Symptom7 :  nausea
+Symptom8 :  loss_of_appetite
+Symptom9 :  abdominal_pain
+Symptom10 :  yellowing_of_eyes
+Symptom11 :  acute_liver_failure
+Symptom12 :  coma
+Symptom13 :  stomach_bleeding
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Hepatitis E

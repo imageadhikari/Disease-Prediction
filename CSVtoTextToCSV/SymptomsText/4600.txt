@@ -1,0 +1,19 @@
+PatientId : 4600
+Symptom1 :  fatigue
+Symptom2 :  weight_loss
+Symptom3 :  restlessness
+Symptom4 :  lethargy
+Symptom5 :  irregular_sugar_level
+Symptom6 :  blurred_and_distorted_vision
+Symptom7 :  obesity
+Symptom8 :  excessive_hunger
+Symptom9 :  increased_appetite
+Symptom10 :  polyuria
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Diabetes 

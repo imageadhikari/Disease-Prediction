@@ -1,0 +1,19 @@
+PatientId : 2654
+Symptom1 :  vomiting
+Symptom2 :  breathlessness
+Symptom3 :  sweating
+Symptom4 :  chest_pain
+Symptom5 : 
+Symptom6 : 
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Heart attack

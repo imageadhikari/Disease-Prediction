@@ -1,0 +1,19 @@
+PatientId : 695
+Symptom1 :  constipation
+Symptom2 :  pain_in_anal_region
+Symptom3 :  bloody_stool
+Symptom4 :  irritation_in_anus
+Symptom5 : 
+Symptom6 : 
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Dimorphic hemmorhoids(piles)

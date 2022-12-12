@@ -1,0 +1,19 @@
+PatientId : 605
+Symptom1 :  joint_pain
+Symptom2 :  vomiting
+Symptom3 :  dark_urine
+Symptom4 :  nausea
+Symptom5 :  loss_of_appetite
+Symptom6 :  abdominal_pain
+Symptom7 :  diarrhoea
+Symptom8 :  mild_fever
+Symptom9 :  yellowing_of_eyes
+Symptom10 :  muscle_pain
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : hepatitis A

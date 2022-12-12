@@ -1,0 +1,19 @@
+PatientId : 466
+Symptom1 :  vomiting
+Symptom2 :  indigestion
+Symptom3 :  loss_of_appetite
+Symptom4 :  passage_of_gases
+Symptom5 :  internal_itching
+Symptom6 : 
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Peptic ulcer diseae

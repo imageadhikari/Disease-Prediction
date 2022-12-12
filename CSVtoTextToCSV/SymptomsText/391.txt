@@ -1,0 +1,19 @@
+PatientId : 391
+Symptom1 :  skin_rash
+Symptom2 :  joint_pain
+Symptom3 :  skin_peeling
+Symptom4 :  silver_like_dusting
+Symptom5 :  small_dents_in_nails
+Symptom6 :  inflammatory_nails
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Psoriasis

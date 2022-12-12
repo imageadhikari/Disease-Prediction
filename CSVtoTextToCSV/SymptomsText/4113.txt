@@ -1,0 +1,19 @@
+PatientId : 4113
+Symptom1 :  back_pain
+Symptom2 :  weakness_in_limbs
+Symptom3 :  neck_pain
+Symptom4 :  dizziness
+Symptom5 :  loss_of_balance
+Symptom6 : 
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Cervical spondylosis

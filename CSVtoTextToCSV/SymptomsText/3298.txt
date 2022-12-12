@@ -1,0 +1,19 @@
+PatientId : 3298
+Symptom1 :  skin_rash
+Symptom2 :  chills
+Symptom3 :  joint_pain
+Symptom4 :  vomiting
+Symptom5 :  fatigue
+Symptom6 :  high_fever
+Symptom7 :  headache
+Symptom8 :  nausea
+Symptom9 :  loss_of_appetite
+Symptom10 :  pain_behind_the_eyes
+Symptom11 :  back_pain
+Symptom12 :  malaise
+Symptom13 :  muscle_pain
+Symptom14 :  red_spots_over_body
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Dengue

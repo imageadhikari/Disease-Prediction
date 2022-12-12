@@ -1,0 +1,19 @@
+PatientId : 1010
+Symptom1 :  chills
+Symptom2 :  fatigue
+Symptom3 :  high_fever
+Symptom4 :  headache
+Symptom5 :  nausea
+Symptom6 :  constipation
+Symptom7 :  abdominal_pain
+Symptom8 :  diarrhoea
+Symptom9 :  toxic_look_(typhos)
+Symptom10 :  belly_pain
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Typhoid

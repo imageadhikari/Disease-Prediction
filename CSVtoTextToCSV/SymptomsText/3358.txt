@@ -1,0 +1,19 @@
+PatientId : 3358
+Symptom1 :  vomiting
+Symptom2 :  headache
+Symptom3 :  nausea
+Symptom4 :  spinning_movements
+Symptom5 :  loss_of_balance
+Symptom6 :  unsteadiness
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : (vertigo) Paroymsal  Positional Vertigo

@@ -1,0 +1,19 @@
+PatientId : 243
+Symptom1 :  yellowish_skin
+Symptom2 :  abdominal_pain
+Symptom3 :  swelling_of_stomach
+Symptom4 :  distention_of_abdomen
+Symptom5 :  history_of_alcohol_consumption
+Symptom6 :  fluid_overload
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Alcoholic hepatitis

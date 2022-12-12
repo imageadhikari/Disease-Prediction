@@ -1,0 +1,19 @@
+PatientId : 1983
+Symptom1 :  neck_pain
+Symptom2 :  knee_pain
+Symptom3 :  hip_joint_pain
+Symptom4 :  swelling_joints
+Symptom5 :  painful_walking
+Symptom6 : 
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Osteoarthristis

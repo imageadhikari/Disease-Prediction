@@ -1,0 +1,19 @@
+PatientId : 858
+Symptom1 : itching
+Symptom2 :  vomiting
+Symptom3 :  yellowish_skin
+Symptom4 :  nausea
+Symptom5 :  loss_of_appetite
+Symptom6 :  abdominal_pain
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Chronic cholestasis

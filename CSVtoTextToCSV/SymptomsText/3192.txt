@@ -1,0 +1,19 @@
+PatientId : 3192
+Symptom1 :  joint_pain
+Symptom2 :  neck_pain
+Symptom3 :  knee_pain
+Symptom4 :  hip_joint_pain
+Symptom5 :  swelling_joints
+Symptom6 :  painful_walking
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Osteoarthristis

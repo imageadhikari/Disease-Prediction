@@ -1,0 +1,19 @@
+PatientId : 2263
+Symptom1 :  yellowish_skin
+Symptom2 :  nausea
+Symptom3 :  loss_of_appetite
+Symptom4 :  yellowing_of_eyes
+Symptom5 :  family_history
+Symptom6 : 
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Hepatitis C

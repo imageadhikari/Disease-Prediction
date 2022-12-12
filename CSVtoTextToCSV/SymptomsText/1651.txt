@@ -1,0 +1,19 @@
+PatientId : 1651
+Symptom1 :  continuous_sneezing
+Symptom2 :  shivering
+Symptom3 :  chills
+Symptom4 :  watering_from_eyes
+Symptom5 : 
+Symptom6 : 
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Allergy

@@ -1,0 +1,19 @@
+PatientId : 1916
+Symptom1 :  chills
+Symptom2 :  fatigue
+Symptom3 :  high_fever
+Symptom4 :  breathlessness
+Symptom5 :  sweating
+Symptom6 :  malaise
+Symptom7 :  phlegm
+Symptom8 :  chest_pain
+Symptom9 :  fast_heart_rate
+Symptom10 :  rusty_sputum
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Pneumonia

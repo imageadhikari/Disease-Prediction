@@ -46,12 +46,12 @@ SymptomReader.on("close", ()=> {
                 };                
             }
             Temp.push(obj)
-            CreateDocx(obj)
-
-        // for (let i in Temp){
-        //     console.log(Temp[i].PatientId)
-        //     CreateFile(Temp[i])
-        // }
+            // CreateDocx(obj)
+        }
+        
+                for (let i in Temp){
+                    // console.log(Temp[i].PatientId)
+                    CreateFile(Temp[i])
     }
 })
 

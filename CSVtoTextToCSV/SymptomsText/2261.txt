@@ -1,0 +1,19 @@
+PatientId : 2261
+Symptom1 :  fatigue
+Symptom2 :  yellowish_skin
+Symptom3 :  nausea
+Symptom4 :  loss_of_appetite
+Symptom5 :  family_history
+Symptom6 : 
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Hepatitis C

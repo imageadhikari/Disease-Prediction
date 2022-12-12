@@ -1,0 +1,19 @@
+PatientId : 2599
+Symptom1 :  chills
+Symptom2 :  vomiting
+Symptom3 :  high_fever
+Symptom4 :  sweating
+Symptom5 :  headache
+Symptom6 :  nausea
+Symptom7 :  diarrhoea
+Symptom8 :  muscle_pain
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Malaria

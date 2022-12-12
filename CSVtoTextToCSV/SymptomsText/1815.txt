@@ -1,0 +1,19 @@
+PatientId : 1815
+Symptom1 :  chills
+Symptom2 :  joint_pain
+Symptom3 :  vomiting
+Symptom4 :  fatigue
+Symptom5 :  high_fever
+Symptom6 :  headache
+Symptom7 :  nausea
+Symptom8 :  loss_of_appetite
+Symptom9 :  pain_behind_the_eyes
+Symptom10 :  back_pain
+Symptom11 :  malaise
+Symptom12 :  muscle_pain
+Symptom13 :  red_spots_over_body
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Dengue

@@ -1,0 +1,19 @@
+PatientId : 3085
+Symptom1 :  fatigue
+Symptom2 :  cough
+Symptom3 :  high_fever
+Symptom4 :  breathlessness
+Symptom5 :  family_history
+Symptom6 :  mucoid_sputum
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Bronchial Asthma

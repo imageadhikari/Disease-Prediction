@@ -1,0 +1,19 @@
+PatientId : 2044
+Symptom1 :  skin_rash
+Symptom2 :  blister
+Symptom3 :  red_sore_around_nose
+Symptom4 :  yellow_crust_ooze
+Symptom5 : 
+Symptom6 : 
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Impetigo

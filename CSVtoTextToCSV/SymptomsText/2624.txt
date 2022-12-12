@@ -1,0 +1,19 @@
+PatientId : 2624
+Symptom1 :  skin_rash
+Symptom2 :  high_fever
+Symptom3 :  blister
+Symptom4 :  red_sore_around_nose
+Symptom5 :  yellow_crust_ooze
+Symptom6 : 
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Impetigo

@@ -1,0 +1,19 @@
+PatientId : 1963
+Symptom1 :  mood_swings
+Symptom2 :  weight_loss
+Symptom3 :  restlessness
+Symptom4 :  sweating
+Symptom5 :  diarrhoea
+Symptom6 :  fast_heart_rate
+Symptom7 :  excessive_hunger
+Symptom8 :  muscle_weakness
+Symptom9 :  irritability
+Symptom10 :  abnormal_menstruation
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Hyperthyroidism

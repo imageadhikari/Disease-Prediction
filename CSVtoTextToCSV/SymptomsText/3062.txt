@@ -1,0 +1,19 @@
+PatientId : 3062
+Symptom1 :  chills
+Symptom2 :  fatigue
+Symptom3 :  cough
+Symptom4 :  high_fever
+Symptom5 :  breathlessness
+Symptom6 :  sweating
+Symptom7 :  malaise
+Symptom8 :  phlegm
+Symptom9 :  chest_pain
+Symptom10 :  fast_heart_rate
+Symptom11 :  rusty_sputum
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Pneumonia

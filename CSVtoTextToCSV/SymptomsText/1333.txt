@@ -1,0 +1,19 @@
+PatientId : 1333
+Symptom1 :  headache
+Symptom2 :  dizziness
+Symptom3 :  loss_of_balance
+Symptom4 :  lack_of_concentration
+Symptom5 : 
+Symptom6 : 
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Hypertension 

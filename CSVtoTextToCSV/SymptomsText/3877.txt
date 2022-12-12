@@ -1,0 +1,19 @@
+PatientId : 3877
+Symptom1 :  joint_pain
+Symptom2 :  vomiting
+Symptom3 :  fatigue
+Symptom4 :  yellowish_skin
+Symptom5 :  dark_urine
+Symptom6 :  nausea
+Symptom7 :  loss_of_appetite
+Symptom8 :  abdominal_pain
+Symptom9 :  yellowing_of_eyes
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Hepatitis D

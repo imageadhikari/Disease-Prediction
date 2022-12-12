@@ -1,0 +1,19 @@
+PatientId : 3217
+Symptom1 :  chills
+Symptom2 :  vomiting
+Symptom3 :  fatigue
+Symptom4 :  high_fever
+Symptom5 :  headache
+Symptom6 :  nausea
+Symptom7 :  constipation
+Symptom8 :  abdominal_pain
+Symptom9 :  diarrhoea
+Symptom10 :  toxic_look_(typhos)
+Symptom11 :  belly_pain
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Typhoid

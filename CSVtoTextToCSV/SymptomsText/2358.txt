@@ -1,0 +1,19 @@
+PatientId : 2358
+Symptom1 :  fatigue
+Symptom2 :  cramps
+Symptom3 :  bruising
+Symptom4 :  obesity
+Symptom5 :  swollen_legs
+Symptom6 :  prominent_veins_on_calf
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Varicose veins

@@ -1,0 +1,19 @@
+PatientId : 1073
+Symptom1 :  vomiting
+Symptom2 :  fatigue
+Symptom3 :  weight_loss
+Symptom4 :  cough
+Symptom5 :  high_fever
+Symptom6 :  breathlessness
+Symptom7 :  sweating
+Symptom8 :  loss_of_appetite
+Symptom9 :  mild_fever
+Symptom10 :  yellowing_of_eyes
+Symptom11 :  swelled_lymph_nodes
+Symptom12 :  malaise
+Symptom13 :  phlegm
+Symptom14 :  chest_pain
+Symptom15 :  blood_in_sputum
+Symptom16 : 
+Symptom17 : 
+Disease : Tuberculosis

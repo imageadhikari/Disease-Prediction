@@ -1,0 +1,19 @@
+PatientId : 2198
+Symptom1 : itching
+Symptom2 :  vomiting
+Symptom3 :  fatigue
+Symptom4 :  weight_loss
+Symptom5 :  high_fever
+Symptom6 :  dark_urine
+Symptom7 :  abdominal_pain
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Jaundice

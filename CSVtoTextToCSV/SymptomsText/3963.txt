@@ -1,0 +1,19 @@
+PatientId : 3963
+Symptom1 :  continuous_sneezing
+Symptom2 :  chills
+Symptom3 :  fatigue
+Symptom4 :  cough
+Symptom5 :  high_fever
+Symptom6 :  headache
+Symptom7 :  swelled_lymph_nodes
+Symptom8 :  malaise
+Symptom9 :  phlegm
+Symptom10 :  throat_irritation
+Symptom11 :  redness_of_eyes
+Symptom12 :  sinus_pressure
+Symptom13 :  runny_nose
+Symptom14 :  congestion
+Symptom15 :  chest_pain
+Symptom16 :  loss_of_smell
+Symptom17 :  muscle_pain
+Disease : Common Cold

@@ -1,0 +1,19 @@
+PatientId : 1542
+Symptom1 :  fatigue
+Symptom2 :  weight_gain
+Symptom3 :  cold_hands_and_feets
+Symptom4 :  mood_swings
+Symptom5 :  lethargy
+Symptom6 :  dizziness
+Symptom7 :  puffy_face_and_eyes
+Symptom8 :  enlarged_thyroid
+Symptom9 :  brittle_nails
+Symptom10 :  swollen_extremeties
+Symptom11 :  depression
+Symptom12 :  irritability
+Symptom13 :  abnormal_menstruation
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Hypothyroidism

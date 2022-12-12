@@ -1,0 +1,19 @@
+PatientId : 963
+Symptom1 :  vomiting
+Symptom2 :  fatigue
+Symptom3 :  weight_loss
+Symptom4 :  high_fever
+Symptom5 :  yellowish_skin
+Symptom6 :  dark_urine
+Symptom7 :  abdominal_pain
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Jaundice

@@ -1,0 +1,19 @@
+PatientId : 2251
+Symptom1 : itching
+Symptom2 :  fatigue
+Symptom3 :  lethargy
+Symptom4 :  yellowish_skin
+Symptom5 :  dark_urine
+Symptom6 :  loss_of_appetite
+Symptom7 :  abdominal_pain
+Symptom8 :  yellow_urine
+Symptom9 :  yellowing_of_eyes
+Symptom10 :  malaise
+Symptom11 :  receiving_blood_transfusion
+Symptom12 :  receiving_unsterile_injections
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Hepatitis B

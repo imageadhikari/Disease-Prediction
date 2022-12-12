@@ -1,0 +1,19 @@
+PatientId : 1
+Symptom1 : itching
+Symptom2 :  skin_rash
+Symptom3 :  nodal_skin_eruptions
+Symptom4 :  dischromic _patches
+Symptom5 : 
+Symptom6 : 
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Fungal infection

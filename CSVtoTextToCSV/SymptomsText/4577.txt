@@ -1,0 +1,19 @@
+PatientId : 4577
+Symptom1 :  chills
+Symptom2 :  vomiting
+Symptom3 :  fatigue
+Symptom4 :  weight_loss
+Symptom5 :  cough
+Symptom6 :  high_fever
+Symptom7 :  breathlessness
+Symptom8 :  sweating
+Symptom9 :  loss_of_appetite
+Symptom10 :  mild_fever
+Symptom11 :  yellowing_of_eyes
+Symptom12 :  swelled_lymph_nodes
+Symptom13 :  malaise
+Symptom14 :  phlegm
+Symptom15 :  chest_pain
+Symptom16 :  blood_in_sputum
+Symptom17 : 
+Disease : Tuberculosis

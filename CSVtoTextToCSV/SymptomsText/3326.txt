@@ -1,0 +1,19 @@
+PatientId : 3326
+Symptom1 : itching
+Symptom2 :  skin_rash
+Symptom3 :  stomach_pain
+Symptom4 :  burning_micturition
+Symptom5 :  spotting_ urination
+Symptom6 : 
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Drug Reaction

@@ -1,0 +1,19 @@
+PatientId : 573
+Symptom1 : itching
+Symptom2 :  fatigue
+Symptom3 :  lethargy
+Symptom4 :  high_fever
+Symptom5 :  headache
+Symptom6 :  loss_of_appetite
+Symptom7 :  mild_fever
+Symptom8 :  swelled_lymph_nodes
+Symptom9 :  malaise
+Symptom10 :  red_spots_over_body
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Chicken pox

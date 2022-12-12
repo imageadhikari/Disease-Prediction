@@ -1,0 +1,19 @@
+PatientId : 4284
+Symptom1 :  joint_pain
+Symptom2 :  vomiting
+Symptom3 :  yellowish_skin
+Symptom4 :  dark_urine
+Symptom5 :  nausea
+Symptom6 :  loss_of_appetite
+Symptom7 :  abdominal_pain
+Symptom8 :  diarrhoea
+Symptom9 :  mild_fever
+Symptom10 :  yellowing_of_eyes
+Symptom11 :  muscle_pain
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : hepatitis A

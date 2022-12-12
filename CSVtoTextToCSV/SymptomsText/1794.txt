@@ -1,0 +1,19 @@
+PatientId : 1794
+Symptom1 :  vomiting
+Symptom2 :  high_fever
+Symptom3 :  sweating
+Symptom4 :  headache
+Symptom5 :  nausea
+Symptom6 :  diarrhoea
+Symptom7 :  muscle_pain
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Malaria

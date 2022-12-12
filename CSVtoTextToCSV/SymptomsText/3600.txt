@@ -1,0 +1,19 @@
+PatientId : 3600
+Symptom1 :  fatigue
+Symptom2 :  mood_swings
+Symptom3 :  weight_loss
+Symptom4 :  restlessness
+Symptom5 :  sweating
+Symptom6 :  diarrhoea
+Symptom7 :  fast_heart_rate
+Symptom8 :  excessive_hunger
+Symptom9 :  muscle_weakness
+Symptom10 :  irritability
+Symptom11 :  abnormal_menstruation
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Hyperthyroidism

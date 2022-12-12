@@ -1,0 +1,19 @@
+PatientId : 4636
+Symptom1 :  stomach_pain
+Symptom2 :  acidity
+Symptom3 :  ulcers_on_tongue
+Symptom4 :  vomiting
+Symptom5 :  cough
+Symptom6 :  chest_pain
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : GERD

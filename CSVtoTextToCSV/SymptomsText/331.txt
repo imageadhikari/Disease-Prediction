@@ -1,0 +1,19 @@
+PatientId : 331
+Symptom1 :  vomiting
+Symptom2 :  fatigue
+Symptom3 :  anxiety
+Symptom4 :  sweating
+Symptom5 :  headache
+Symptom6 :  nausea
+Symptom7 :  blurred_and_distorted_vision
+Symptom8 :  excessive_hunger
+Symptom9 :  slurred_speech
+Symptom10 :  irritability
+Symptom11 :  palpitations
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Hypoglycemia

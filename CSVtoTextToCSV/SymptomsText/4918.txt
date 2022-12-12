@@ -1,0 +1,19 @@
+PatientId : 4918
+Symptom1 :  burning_micturition
+Symptom2 :  bladder_discomfort
+Symptom3 :  foul_smell_of urine
+Symptom4 :  continuous_feel_of_urine
+Symptom5 : 
+Symptom6 : 
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Urinary tract infection

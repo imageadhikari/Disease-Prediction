@@ -1,0 +1,19 @@
+PatientId : 4435
+Symptom1 :  muscle_wasting
+Symptom2 :  patches_in_throat
+Symptom3 :  high_fever
+Symptom4 :  extra_marital_contacts
+Symptom5 : 
+Symptom6 : 
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : AIDS

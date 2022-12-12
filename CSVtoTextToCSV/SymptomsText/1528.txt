@@ -1,0 +1,19 @@
+PatientId : 1528
+Symptom1 :  breathlessness
+Symptom2 :  sweating
+Symptom3 :  chest_pain
+Symptom4 : 
+Symptom5 : 
+Symptom6 : 
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Heart attack

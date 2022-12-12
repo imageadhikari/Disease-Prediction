@@ -1,0 +1,19 @@
+PatientId : 932
+Symptom1 :  indigestion
+Symptom2 :  headache
+Symptom3 :  blurred_and_distorted_vision
+Symptom4 :  excessive_hunger
+Symptom5 :  stiff_neck
+Symptom6 :  depression
+Symptom7 :  irritability
+Symptom8 :  visual_disturbances
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Migraine

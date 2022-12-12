@@ -1,0 +1,19 @@
+PatientId : 68
+Symptom1 :  patches_in_throat
+Symptom2 :  high_fever
+Symptom3 :  extra_marital_contacts
+Symptom4 : 
+Symptom5 : 
+Symptom6 : 
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : AIDS

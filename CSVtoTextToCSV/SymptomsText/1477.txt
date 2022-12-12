@@ -1,0 +1,19 @@
+PatientId : 1477
+Symptom1 :  vomiting
+Symptom2 :  yellowish_skin
+Symptom3 :  abdominal_pain
+Symptom4 :  swelling_of_stomach
+Symptom5 :  history_of_alcohol_consumption
+Symptom6 :  fluid_overload
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Alcoholic hepatitis

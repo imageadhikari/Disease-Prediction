@@ -1,0 +1,19 @@
+PatientId : 981
+Symptom1 : itching
+Symptom2 :  skin_rash
+Symptom3 :  fatigue
+Symptom4 :  lethargy
+Symptom5 :  high_fever
+Symptom6 :  headache
+Symptom7 :  loss_of_appetite
+Symptom8 :  mild_fever
+Symptom9 :  swelled_lymph_nodes
+Symptom10 :  malaise
+Symptom11 :  red_spots_over_body
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Chicken pox

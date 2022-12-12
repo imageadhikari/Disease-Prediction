@@ -1,0 +1,19 @@
+PatientId : 433
+Symptom1 :  stomach_pain
+Symptom2 :  acidity
+Symptom3 :  vomiting
+Symptom4 :  cough
+Symptom5 :  chest_pain
+Symptom6 : 
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : GERD

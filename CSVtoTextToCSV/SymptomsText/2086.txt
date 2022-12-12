@@ -1,0 +1,19 @@
+PatientId : 2086
+Symptom1 : itching
+Symptom2 :  vomiting
+Symptom3 :  yellowish_skin
+Symptom4 :  nausea
+Symptom5 :  abdominal_pain
+Symptom6 :  yellowing_of_eyes
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Chronic cholestasis

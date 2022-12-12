@@ -1,0 +1,19 @@
+PatientId : 1464
+Symptom1 :  vomiting
+Symptom2 :  fatigue
+Symptom3 :  high_fever
+Symptom4 :  yellowish_skin
+Symptom5 :  dark_urine
+Symptom6 :  nausea
+Symptom7 :  loss_of_appetite
+Symptom8 :  abdominal_pain
+Symptom9 :  yellowing_of_eyes
+Symptom10 :  acute_liver_failure
+Symptom11 :  coma
+Symptom12 :  stomach_bleeding
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Hepatitis E

@@ -1,0 +1,19 @@
+PatientId : 4273
+Symptom1 :  vomiting
+Symptom2 :  sunken_eyes
+Symptom3 :  dehydration
+Symptom4 :  diarrhoea
+Symptom5 : 
+Symptom6 : 
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Gastroenteritis

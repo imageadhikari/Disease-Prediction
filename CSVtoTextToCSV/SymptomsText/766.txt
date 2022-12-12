@@ -1,0 +1,19 @@
+PatientId : 766
+Symptom1 :  muscle_weakness
+Symptom2 :  stiff_neck
+Symptom3 :  swelling_joints
+Symptom4 :  painful_walking
+Symptom5 : 
+Symptom6 : 
+Symptom7 : 
+Symptom8 : 
+Symptom9 : 
+Symptom10 : 
+Symptom11 : 
+Symptom12 : 
+Symptom13 : 
+Symptom14 : 
+Symptom15 : 
+Symptom16 : 
+Symptom17 : 
+Disease : Arthritis
